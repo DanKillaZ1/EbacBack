@@ -4,8 +4,6 @@ public class Exemplo2 {
 
     public static void main (String args[]) {
         int num1 = 10;
-        short num2 = (short) num1;
-
         long numl = 1111111111111111111l;
         System.out.println(numl);
         int numI = (int) numl;
