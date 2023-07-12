@@ -3,11 +3,7 @@ package Exemplos.ExemploMod11.map;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-/**
- * @author rodrigo.pires
- *
- * A ordem de iteração é a ordem em que as chaves são inseridas no mapa.
- */
+
 public class ExemploLinkedHashMap {
 
     public static void main(String args[]) {
